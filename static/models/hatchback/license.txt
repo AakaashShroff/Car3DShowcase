@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mini Cooper S
+* source:	https://sketchfab.com/3d-models/mini-cooper-s-2baca439d2494e02b99596014b49ebd3
+* author:	Car2022 (https://sketchfab.com/Car2022)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mini Cooper S" (https://sketchfab.com/3d-models/mini-cooper-s-2baca439d2494e02b99596014b49ebd3) by Car2022 (https://sketchfab.com/Car2022) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
